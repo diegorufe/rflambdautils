@@ -1,6 +1,6 @@
 # rflambdautils
 
-Librería de utilidades lambada para simplificar aun todavía más el uso de lambdas en java
+Librería de utilidades lambda para simplificar aun todavía más el uso de lambdas en java
 
 ## Colecciones
 
